@@ -69,8 +69,8 @@ def plot_3d_surface(df, ticker_symbol):
     )
     
     # Save a static HTML fallback file and open in browser
-    fig.write_html("vol_surface.html", auto_open=True)
-    print("Surface rendered successfully! Saved to 'vol_surface.html'.")
+    fig.write_html("index.html", auto_open=True)
+    print("Surface rendered successfully! Saved to 'index.html'.")
 
 
 if __name__ == "__main__":
