@@ -1,7 +1,5 @@
 # vol-flow-llm
 
-> **SVI Volatility Surface Modeling, Delta-Hedged Dispersion Backtester, and LLM News Parser.**
-
 A Python project that fetches live options data from Yahoo Finance, calibrates a Stochastic Volatility Inspired (SVI) volatility smile for multiple option expirations, and visualizes the resulting implied volatility surface in an interactive 3D Plotly graph.
 
 ---
